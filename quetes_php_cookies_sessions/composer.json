@@ -1,0 +1,15 @@
+{
+    "name": "wilder/quetes_php_cookies_sessions",
+    "autoload": {
+        "psr-4": {
+            "Wilder\\QuetesPhpCookiesSessions\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Martin Lerude",
+            "email": "martin.lerude@gmail.com"
+        }
+    ],
+    "require": {}
+}
